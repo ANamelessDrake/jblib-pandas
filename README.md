@@ -10,10 +10,10 @@ More of my projects can be found here: [http://justbard.com](http://justbard.com
 
 ---
 
-INSTALL:  ` python3 -m pip install jblib-pandas `
+INSTALL:  ` python3 -m pip install jblibpandas `
 
 ---
-` from jblib-pandas import mean_deviation `
+` from jblibpandas import mean_deviation `
 
 ```
     DESCRIPTION:
@@ -27,7 +27,7 @@ INSTALL:  ` python3 -m pip install jblib-pandas `
 ```
 
 ---
-` from jblib-pandas import standard_deviation `
+` from jblibpandas import standard_deviation `
 
 ```
     DESCRIPTION:
