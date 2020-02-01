@@ -13,7 +13,7 @@ More of my projects can be found here: [http://justbard.com](http://justbard.com
 INSTALL:  ` python3 -m pip install jblib-pandas `
 
 ---
-` from jblib import mean_deviation `
+` from jblib-pandas import mean_deviation `
 
 ```
     DESCRIPTION:
@@ -27,7 +27,7 @@ INSTALL:  ` python3 -m pip install jblib-pandas `
 ```
 
 ---
-` from jblib import standard_deviation `
+` from jblib-pandas import standard_deviation `
 
 ```
     DESCRIPTION:

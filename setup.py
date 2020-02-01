@@ -3,8 +3,8 @@ import setuptools
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
-setuptools.setup(name='jblib-pandas',
-                version='1.0',
+setuptools.setup(name='jblibpandas',
+                version='1.1',
                 description='JustBard\'s Python Pandas Utilities',
                 long_description=long_description,
                 long_description_content_type="text/markdown",
